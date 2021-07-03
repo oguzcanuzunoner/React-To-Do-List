@@ -1,3 +1,8 @@
+## NETLIFY DEMO
+
+[NETLIFY DEMO - CLICK ](https://to-do-list-oguzcan-uzunoner.netlify.app/)
+
+
 ## Todo App
 
 Günlük, haftalık planlar yapıp bunları takip etme aşamasında kimi sadece kağıt ve kalem kullanırken kimi de sıklıkla tercih edilen todo list uygulamaları kullanır. React ile basit bir todo list uygulaması yapalım.
